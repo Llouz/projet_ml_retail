@@ -1,0 +1,14 @@
+# Environnement virtuel (À NE JAMAIS PUSHER)
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Données volumineuses (Optionnel)
+# data/raw/*.csv
